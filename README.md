@@ -1,1 +1,1 @@
-# bit-hall-of-fame
+# BIT Hall of Fame
